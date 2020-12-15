@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.622d1ede.chunk.css",
+    "main.js": "/my-app/static/js/main.464c72e1.chunk.js",
+    "main.js.map": "/my-app/static/js/main.464c72e1.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.4a88df54.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.4a88df54.js.map",
+    "static/js/2.7599c84a.chunk.js": "/my-app/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/my-app/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/my-app/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/my-app/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.622d1ede.chunk.css.map": "/my-app/static/css/main.622d1ede.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/my-app/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/Mountain-Transparent-Background.6b773edf.png": "/my-app/static/media/Mountain-Transparent-Background.6b773edf.png",
+    "static/media/clou.2262fa0c.png": "/my-app/static/media/clou.2262fa0c.png",
+    "static/media/hacker_PNG18.15b3a1b2.png": "/my-app/static/media/hacker_PNG18.15b3a1b2.png",
+    "static/media/moun.7c14b267.png": "/my-app/static/media/moun.7c14b267.png",
+    "static/media/vikash.2c27b041.jpg": "/my-app/static/media/vikash.2c27b041.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a88df54.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.622d1ede.chunk.css",
+    "static/js/main.464c72e1.chunk.js"
+  ]
+}
